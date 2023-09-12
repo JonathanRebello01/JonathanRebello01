@@ -1,6 +1,6 @@
 ## ✌️-Jonathan Rebello
 
-- 🌱: Atualmente estudando: HTML, CSS e JavaScript
+- 🌱: Atualmente estudando: Desenvolvimento Mobile
 - 📲: Atualmente: Atuando como desenvolvedor mobile em DTI/PMAM
 - 🎓: CMM -> IFAM: Engenharia de Software
 - ✈️: RJ -> Manaus
