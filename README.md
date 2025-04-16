@@ -1,7 +1,7 @@
 ## ✌️-Jonathan Rebello
 
 - 🌱: Atualmente estudando: Desenvolvimento Mobile
-- 📲: Atualmente: Atuando como desenvolvedor mobile em DTI/PMAM
+- 📲: Atualmente: Atuando no time de desenvolvimento mobile da Caixa Econômica Federal
 - 🎓: CMM -> IFAM: Engenharia de Software
 - ✈️: RJ -> Manaus
 
